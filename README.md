@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karlwevans
-- 👀 I’m interested in statistics, probability, applied mathematics
-- 🌱 I’m currently learning R, Python, Matlab
+- 👀 I’m interested in data science, statistics, probability, applied mathematics, sports
+- 🌱 I’m currently learning R, Python, Matlab, Julia, ArcGIS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me karlwevans@gmail.com
 
