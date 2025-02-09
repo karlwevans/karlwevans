@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @karlwevans
-- 👀 I’m interested in data science, statistics, probability, applied mathematics, sports
-- 🌱 I’m currently learning Python, R, SQL, Julia, ArcGIS, Matlab
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Karl (@karlwevans)
+- 👀 I’m interested in data science, bayesian statistics, sports data, health data
+- 🌱 I’m currently learning Python, SQL, Julia, R, ArcGIS, BASH/Shell
+- 💞️ I’m looking to collaborate on ... just about anything
 - 📫 How to reach me karlwevans@gmail.com
 
 <!---
